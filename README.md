@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alansanchez96&label=Profile%20views&color=0e75b6&style=flat" alt="alansanchez96" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alansanchez96" alt="alansanchez96" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando para un equipo de desarrollo **Innova24**
 
 - 🌱 Me encuentro aprendiendo **Docker, AWS y NodeJS**
@@ -15,7 +13,7 @@
 
 - 💬 Pregúntame sobre **PHP, Laravel, JavaScript y VueJS**
 
-- 📫 Como llegar a mí **:mailbox: alaansannchezz@gmail.com | :iphone: +54 11-2584-6944**
+- 📫 Como llegar a mí **alaansannchezz@gmail.com | :iphone: +54 11-2584-6944**
 
 - ⚡ Datos Curiosos **Amo la música clásica, One Piece y practicar BasketBall :basketball:**
 
