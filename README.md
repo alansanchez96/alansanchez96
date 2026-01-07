@@ -10,7 +10,7 @@ Backend Developer specialized in **PHP / Laravel** with experience in:
 
 ### 🛠 Tech Stack
 - PHP, Laravel
-- MySQL, PostgreSQL, Redis
+- MySQL, PostgreSQL, Redis, MongoDB
 - Docker, Linux, Nginx
 - PHPUnit, Cypress
 - Stripe, Google Cloud, OpenAI
