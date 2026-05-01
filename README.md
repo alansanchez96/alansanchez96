@@ -132,10 +132,10 @@ I’m especially interested in roles where I can work on backend architecture, A
 ---
 
 ## 📊 GitHub Stats
+https://github-readme-stats-sigma-two-87.vercel.app/
+![Alan's GitHub Stats](https://github-readme-stats-sigma-two-87.vercel.app/api?username=alansanchez96&show_icons=true&theme=default)
 
-![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alansanchez96&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansanchez96&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-sigma-two-87.vercel.app/api/top-langs/?username=alansanchez96&layout=compact&theme=default)
 
 ---
 
